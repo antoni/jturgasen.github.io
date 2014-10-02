@@ -3,7 +3,7 @@ layout: post
 title: "Tech Takeaway 005: Best practices for PaaS, OpenStack, & cloud adoption"
 description: ""
 category: 
-tags: ["tech takeaway", "openstack", "best practices", "PaaS"]
+tags: ["tech takeaway", "openstack", "best practices", "paas"]
 ---
 {% include JB/setup %}
 
