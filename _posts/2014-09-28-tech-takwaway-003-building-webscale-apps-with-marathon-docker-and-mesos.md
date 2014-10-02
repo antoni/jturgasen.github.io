@@ -3,7 +3,7 @@ layout: post
 title: "Tech Takwaway 003: Building Webscale Apps with Marathon, Docker, and Mesos"
 description: ""
 category: 
-tags: ["Tech Takeaway", "Mesos", "Marathon"]
+tags: ["tech takeaway", "mesos", "marathon"]
 ---
 {% include JB/setup %}
 
