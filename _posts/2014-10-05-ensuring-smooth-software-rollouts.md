@@ -31,5 +31,7 @@ I've been thinking about this question for a few days and here's what I brainsto
 * **Credentials** - Do the people doing the rollout have the access they need (root, console access, etc)?
 * **Document the Process** - Write down the steps!
 * **Automate It** - Reduce human error.
+* **Tell the Help Desk** - Let them know so they can work with you to watch for problems
+* **Tell End-Users** - Communicate the change so they know what's going on
 
 What other ideas do you have?  E-mail me!
