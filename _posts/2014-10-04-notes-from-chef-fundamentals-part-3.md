@@ -75,4 +75,5 @@ Notes from the [Chef Fundamentals](http://learn.getchef.com/fundamentals-series)
 * Attributes can be set in multiple places for flexibility (within roles, in cookbooks, in recipes, ohai, environment attributes, etc)
 * Best practice: Set a sane default attribute that will be used in a cookbook
 * Attributes in roles override attributes in cookbooks
-* 
+
+On to video #4!
