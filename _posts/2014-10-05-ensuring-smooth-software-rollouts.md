@@ -28,5 +28,8 @@ I've been thinking about this question for a few days and here's what I brainsto
 * **Tested Backups** - If everything blows up can you restore from backup?
 * **User Testing** - Round up some end-users and have them try the new version before your rollout.  A fresh perspective can give new ideas.
 * **Read the Release Notes** - For both commercial and OSS software
+* **Credentials** - Do the people doing the rollout have the access they need (root, console access, etc)?
+* **Document the Process** - Write down the steps!
+* **Automate It** - Reduce human error.
 
 What other ideas do you have?  E-mail me!
