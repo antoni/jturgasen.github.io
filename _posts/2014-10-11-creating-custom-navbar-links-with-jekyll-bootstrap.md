@@ -35,4 +35,4 @@ Next, put in a redirect and a message for the user:
 
 That's it, you're done.  Repeat the process for a Twitter link, a link to your resume, or whatever.
 
-Quick and easy!
+One more note, Google around and you can find ways to make your navbar **weighted** so you can specify the order that the items appear in.  Maybe I'll do that later...
