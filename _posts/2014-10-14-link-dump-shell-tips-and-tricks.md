@@ -12,7 +12,7 @@ Dumping all the links on shell scripting, bash tricks, and discussions that I ha
 * [Greg's Wiki](http://mywiki.wooledge.org/EnglishFrontPage) - Killer personal wiki with lots of articles
 * [Bash Shell Scripting in 10 Seconds](https://news.ycombinator.com/item?id=3638585) - The article is kinda crappy but the discussion is priceless
 * [Linux tip: Bash test and comparison functions](http://www.ibm.com/developerworks/library/l-bash-test/index.html) - By IBM
-* [Find|xargs like a boss (Real Example)](https://news.ycombinator.com/item?id=3690781) - Article link and Hacker News comments
+* [Find\|xargs like a boss (Real Example)](https://news.ycombinator.com/item?id=3690781) - Article link and Hacker News comments
 * [Shelling Out Sucks](https://news.ycombinator.com/item?id=3689561) - Article link and Hacker News discussion
 * [Bourne is not bash, or: Read, echo, and backslash](https://news.ycombinator.com/item?id=3754169) - Article link and Hacker News discussion
 * [Keeping bash history in sync between multiple terminals](https://news.ycombinator.com/item?id=3755276) - Article link and Hacker News discussion
