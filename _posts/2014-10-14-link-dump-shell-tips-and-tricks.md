@@ -25,7 +25,7 @@ Dumping all the links on shell scripting, bash tricks, and discussions that I ha
 * [Explain Shell](https://news.ycombinator.com/item?id=6834791) - Article link and Hacker News discussion **recommended**
 * [Hey Reddit Linux users, what are your best shell aliases?](https://www.reddit.com/r/linux/comments/23zibr/hey_reddit_linux_users_what_are_your_best_shell/) - Discussion on Reddit
 * [Bash Getopts – Scripts with Command Line Options](http://tuxtweaks.com/2014/05/bash-getopts/) - Blog post on how to use ``getopts`` and ``getopt``
-* [Trying to figure out use cases for terminal commands. ";" "&&" "||"](https://www.reddit.com/r/linux/comments/26kwvu/trying_to_figure_out_use_cases_for_terminal/) - Reddit comments
+* [Trying to figure out use cases for terminal commands...](https://www.reddit.com/r/linux/comments/26kwvu/trying_to_figure_out_use_cases_for_terminal/) - Reddit talks about ``; && and ||``
 * [Defensive Bash programming](https://news.ycombinator.com/item?id=7815190) - Article link and Hacker News discussion
 * [Why Using .* in Regular Expressions Is Almost Never What You Actually Want](https://news.ycombinator.com/item?id=7845137) - Article link and Hacker News discussion
 * [What are some of your most useful bash aliases or functions?](https://www.reddit.com/r/linux/comments/27cp9o/what_are_some_of_your_most_useful_bash_aliases_or/) - Discussion on Reddit
