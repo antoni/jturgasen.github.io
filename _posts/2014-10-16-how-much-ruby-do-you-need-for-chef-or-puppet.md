@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How Much Ruby do You Need for Chef or Puppet?"
+title: "How Much Ruby Do You Need for Chef or Puppet?"
 description: ""
 category: 
 tags: ["chef", "puppet", "ruby", "configuration management"]
