@@ -3,7 +3,7 @@ layout: post
 title: "Link Dump: Btrfs"
 description: ""
 category: 
-tags: ["linux", "rhel", "centos"]
+tags: ["linux", "rhel", "centos", "btrfs"]
 ---
 {% include JB/setup %}
 
