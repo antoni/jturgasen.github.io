@@ -27,3 +27,4 @@ tags: ["https", "security"]
 * [Ask HN: What's the best company to buy a SSL certificate from (2014)](https://news.ycombinator.com/item?id=8344238)
 * [Keyless SSL: The Nitty Gritty Technical Details](https://news.ycombinator.com/item?id=8339705)
 * [SSL handshake latency and HTTPS optimizations (2010)](https://news.ycombinator.com/item?id=8358328)
+* [Optimizing Nginx TLS Time to First Byte](https://news.ycombinator.com/item?id=6917117)
