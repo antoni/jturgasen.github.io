@@ -27,8 +27,8 @@ First, let's tell our syslog server to listen for incoming connections.  On the 
 to
 
 	# Provides TCP syslog reception
-	#$ModLoad imtcp
-	#$Input TCPServerRun 514
+	$ModLoad imtcp
+	$Input TCPServerRun 514
 
 and then bounce ``rsyslog`` to have it re-read the configuration file:
 
