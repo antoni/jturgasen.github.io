@@ -14,7 +14,7 @@ Nothing exciting, just a list of things to think about when designing applicatio
 * You will scale horizontally, not vertically
 * Can your application handle auto-scaling?
 * Your application won't run on a single system, it will run on many
-* When a failure occurs, consider retry transparently
+* When a failure occurs, consider retry transparently 
 * Use loose coupling so if one component of your system fails it won't bring down the system as a whole
 * Use a shared-nothing design
 * Which communication protocols will you use (IPC / named pipes vs HTTP / REST)
