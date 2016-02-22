@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Symantec Volume Manager Quick Reference"
+title: "My Symantec Volume Manager Quick Reference"
 description: ""
 category: 
 tags: ["veritas"]

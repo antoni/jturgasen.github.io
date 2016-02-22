@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "What are VXLANs?"
+title: "Original Content: What are VXLANs?"
 description: ""
 category: 
-tags: ["networking"]
+tags: ["networking", "Original Content"]
 ---
 {% include JB/setup %}
 

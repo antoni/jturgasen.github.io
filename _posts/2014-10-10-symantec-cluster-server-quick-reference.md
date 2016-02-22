@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Symantec Cluster Server Quick Reference"
+title: "My Symantec Cluster Server Quick Reference"
 description: ""
 category: 
 tags: ["veritas"]

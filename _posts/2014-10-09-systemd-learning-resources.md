@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "systemd Learning Resources"
+title: "Link Dump: systemd Learning Resources"
 description: ""
 category: 
 tags: ["systemd", "rhel", "linux", "centos"]

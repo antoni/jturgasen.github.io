@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Shell Scripting Quick Reference"
+title: "My Shell Scripting Quick Reference"
 description: ""
 category: 
 tags: ["shell scripting"]

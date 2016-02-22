@@ -3,7 +3,7 @@ layout: post
 title: "SSH Tips and Best Practices"
 description: ""
 category: 
-tags: ["ssh", "linux", "best practices", "AWS"]
+tags: ["ssh", "linux", "best practices", "AWS", "Original Content"]
 ---
 {% include JB/setup %}
 
